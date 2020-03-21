@@ -5,10 +5,11 @@
 #### Deep Learning
 [Learning Compositional Koopman Operators for Model-Based Control](https://arxiv.org/abs/1910.08264) \[[Project](http://koopman.csail.mit.edu/)\]
 
+[Deep learning for universal linear embeddings of nonlinear dynamics](https://www.nature.com/articles/s41467-018-07210-0)\[[Code](https://github.com/BethanyL/DeepKoopman)\],\[[Code(non-off)](https://github.com/dykuang/Deep----Koopman)\]
+
+
 #### Active Learning
 [Active Learning of Dynamics for Data-Driven Control Using Koopman Operators](https://arxiv.org/abs/1906.05194) \[[Code](https://github.com/ianabraham21/koopman-ctrl-active-learning)\]
-
-[Deep learning for universal linear embeddings of nonlinear dynamics](https://www.nature.com/articles/s41467-018-07210-0)\[[Code](https://github.com/BethanyL/DeepKoopman)\],\[[Code(non-off)](https://github.com/dykuang/Deep----Koopman)\]
 
 
 #### EDMD
@@ -30,4 +31,9 @@
 #### Steve Brunton
 [Koopman Spectral Analysis (Overview)](https://www.youtube.com/watch?v=J7s0XNT96ag)
 [Koopman Observable Subspaces & Nonlinearization](https://www.youtube.com/watch?v=pnGsQAt0od4)
+<<<<<<< HEAD
 [Koopman Observable Subspaces & Finite Linear Representations of Nonlinear Dynamics for Control](https://www.youtube.com/watch?v=K5CRbC4yqnk&list=PLMrJAkhIeNNSVXUvppZTYNHKQUD-oWys9)
+=======
+
+[Koopman Observable Subspaces & Finite Linear Representations of Nonlinear Dynamics for Control](https://www.youtube.com/watch?v=K5CRbC4yqnk&list=PLMrJAkhIeNNSVXUvppZTYNHKQUD-oWys9)
+>>>>>>> e0ce432a5b9a50378cdf40d6c0a5bdc1a6424cc3
