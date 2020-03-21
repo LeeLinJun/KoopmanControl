@@ -3,7 +3,6 @@
 ### Paper List
 
 #### Deep Learning
-
 [Learning Compositional Koopman Operators for Model-Based Control](https://arxiv.org/abs/1910.08264) \[[Project](http://koopman.csail.mit.edu/)\]
 
 #### Active Learning
@@ -26,10 +25,9 @@
 [Koopman-based Control of a Soft Continuum Manipulator Under Variable Loading Conditions](https://arxiv.org/abs/2002.01407)
 
 ### Other Resource
-#### Code
-
+#### Some Code
+[Van der Pol dynamical system](https://github.com/i-abr/mpc-koopman)
 #### Steve Brunton
 [Koopman Spectral Analysis (Overview)](https://www.youtube.com/watch?v=J7s0XNT96ag)
 [Koopman Observable Subspaces & Nonlinearization](https://www.youtube.com/watch?v=pnGsQAt0od4)
-
 [Koopman Observable Subspaces & Finite Linear Representations of Nonlinear Dynamics for Control](https://www.youtube.com/watch?v=K5CRbC4yqnk&list=PLMrJAkhIeNNSVXUvppZTYNHKQUD-oWys9)
