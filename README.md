@@ -1,37 +1,35 @@
-## Welcome to GitHub Pages
+## Koopman Control
 
-You can use the [editor on GitHub](https://github.com/LeeLinJun/KoopmanControl/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+### Paper List
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+#### Deep Learning
 
-### Markdown
+[Learning Compositional Koopman Operators for Model-Based Control](https://arxiv.org/abs/1910.08264) \[[Project](http://koopman.csail.mit.edu/)\]
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+#### Active Learning
+[Active Learning of Dynamics for Data-Driven Control Using Koopman Operators](https://arxiv.org/abs/1906.05194) \[[Code](https://github.com/ianabraham21/koopman-ctrl-active-learning)\]
 
-```markdown
-Syntax highlighted code block
+[Deep learning for universal linear embeddings of nonlinear dynamics](https://www.nature.com/articles/s41467-018-07210-0)\[[Code](https://github.com/BethanyL/DeepKoopman)\],\[[Code(non-off)](https://github.com/dykuang/Deep----Koopman)\]
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+#### EDMD
+[Linear predictors for nonlinear dynamical systems: Koopman operator meets model predictive control](https://arxiv.org/pdf/1611.03537.pdf)\[[Code](https://github.com/MilanKorda/KoopmanMPC)\]
 
-1. Numbered
-2. List
+##### Physics
+[A data-driven Koopman model predictive control framework for nonlinear flows](https://arxiv.org/abs/1804.05291)\[[Code](https://github.com/arbabiha/KoopmanMPC_for_flowcontrol)\]
 
-**Bold** and _Italic_ and `Code` text
+[Deep Dynamical Modeling and Control of Unsteady Fluid Flows](https://arxiv.org/abs/1805.07472)
 
-[Link](url) and ![Image](src)
-```
+##### Soft Robot
+[Modeling and Control of Soft Robots Using the Koopman Operator and Model Predictive Control](https://arxiv.org/abs/1902.02827)
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+[Koopman-based Control of a Soft Continuum Manipulator Under Variable Loading Conditions](https://arxiv.org/abs/2002.01407)
 
-### Jekyll Themes
+### Other Resource
+#### Code
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/LeeLinJun/KoopmanControl/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+#### Steve Brunton
+[Koopman Spectral Analysis (Overview)](https://www.youtube.com/watch?v=J7s0XNT96ag)
+[Koopman Observable Subspaces & Nonlinearization](https://www.youtube.com/watch?v=pnGsQAt0od4)
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+[Koopman Observable Subspaces & Finite Linear Representations of Nonlinear Dynamics for Control](https://www.youtube.com/watch?v=K5CRbC4yqnk&list=PLMrJAkhIeNNSVXUvppZTYNHKQUD-oWys9)
