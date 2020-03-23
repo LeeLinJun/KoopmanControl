@@ -7,12 +7,15 @@
 
 [Deep learning for universal linear embeddings of nonlinear dynamics](https://www.nature.com/articles/s41467-018-07210-0)\[[Code](https://github.com/BethanyL/DeepKoopman)\],\[[Code(non-off)](https://github.com/dykuang/Deep----Koopman)\]
 
+[Deep Variational Koopman Models: Inferring Koopman Observations for Uncertainty-Aware Dynamics Modeling and Control](https://arxiv.org/abs/1902.09742)
 
 #### Active Learning
 [Active Learning of Dynamics for Data-Driven Control Using Koopman Operators](https://arxiv.org/abs/1906.05194) \[[Code](https://github.com/ianabraham21/koopman-ctrl-active-learning)\]
 
 
 #### EDMD
+[Model-Based Control Using Koopman Operators](https://arxiv.org/abs/1709.01568)
+
 [Linear predictors for nonlinear dynamical systems: Koopman operator meets model predictive control](https://arxiv.org/pdf/1611.03537.pdf)\[[Code](https://github.com/MilanKorda/KoopmanMPC)\]
 
 ##### Physics
