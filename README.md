@@ -31,9 +31,4 @@
 #### Steve Brunton
 [Koopman Spectral Analysis (Overview)](https://www.youtube.com/watch?v=J7s0XNT96ag)
 [Koopman Observable Subspaces & Nonlinearization](https://www.youtube.com/watch?v=pnGsQAt0od4)
-<<<<<<< HEAD
 [Koopman Observable Subspaces & Finite Linear Representations of Nonlinear Dynamics for Control](https://www.youtube.com/watch?v=K5CRbC4yqnk&list=PLMrJAkhIeNNSVXUvppZTYNHKQUD-oWys9)
-=======
-
-[Koopman Observable Subspaces & Finite Linear Representations of Nonlinear Dynamics for Control](https://www.youtube.com/watch?v=K5CRbC4yqnk&list=PLMrJAkhIeNNSVXUvppZTYNHKQUD-oWys9)
->>>>>>> e0ce432a5b9a50378cdf40d6c0a5bdc1a6424cc3
